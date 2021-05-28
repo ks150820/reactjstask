@@ -1,0 +1,21 @@
+.navbar {
+  display: flex;
+  flex: 1;
+  background-color: #383cc1;
+  padding: 5px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navbar > h3 {
+  color: #fff;
+}
+
+.cart {
+  font-size: 40px;
+  color: #fff;
+}
+
+.badge {
+  margin-right: 30px;
+}
